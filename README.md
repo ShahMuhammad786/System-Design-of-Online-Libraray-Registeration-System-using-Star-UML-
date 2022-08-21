@@ -1,15 +1,15 @@
 # System-Design-of-Online-Libraray-Registeration-System-using-Star-UML-
 
-# Following are the contents in the system desing of the project
+Following are the contents in the system desing of the project
 
-# Problem and solution description 
-# Vision statement
-# Use case diagram
-# Fully dressed use cases
-# Domain Model
-# Communication Diagram
-# Class Diagram 
-# Sequence Diagram
-# Activity Diagram 
+1. Problem and solution description 
+2. Vision statement
+3. Use case diagram
+4. Fully dressed use cases
+5. Domain Model
+6. Communication Diagram
+7. Class Diagram 
+8. Sequence Diagram
+9. Activity Diagram 
 
 ***
